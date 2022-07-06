@@ -4,6 +4,8 @@ Uma comunicação tem duas partes bem conhecidas que chamamos de Cliente e Servi
 
 Em qualquer comunicação é preciso existir algumas regras para que as duas partes consigam se entender com sucesso, esse conjunto de regras é basicamente um protocolo e neste caso chegamos a definição do HTTP (um protocolo que define as regras de comunicação entre cliente e servidor).
 
+![image](https://user-images.githubusercontent.com/50181268/177465714-133156e9-5fe7-4e7a-926d-88d09d9d3921.png)
+
 ## Rest
 - Rest é um padrão arquitetural para comunicaçôes entre aplicações
 - Ele Aproveita a estrutura do HTTP
