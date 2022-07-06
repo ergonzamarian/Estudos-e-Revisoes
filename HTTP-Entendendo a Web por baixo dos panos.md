@@ -13,6 +13,7 @@ O HTTPS é basicamente o HTTP comum, porém com uma camada adicional de seguran�
 HTTP: HyperText Transfer Protocol
 SSL/TLS: Secure Sockets Layer / Transport Layer Security
 
+*Ainda falta adicionar informações sobre endereços, domínio, DNS, portas e recursos - nos próximos dias irei adicionar*
 ## Rest
 - Rest é um padrão arquitetural para comunicaçôes entre aplicações
 - Ele Aproveita a estrutura do HTTP
