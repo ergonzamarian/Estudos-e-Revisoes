@@ -6,6 +6,13 @@ Em qualquer comunicação é preciso existir algumas regras para que as duas par
 
 ![image](https://user-images.githubusercontent.com/50181268/177465714-133156e9-5fe7-4e7a-926d-88d09d9d3921.png)
 
+## HTTPS
+
+O HTTPS é basicamente o HTTP comum, porém com uma camada adicional de segurança/criptografia que antes era SSL, mas posteriormente passou a ser também TLS. É muito comum que estas duas siglas sejam encontradas juntas como SSL/TLS por se tratarem da mesma questão de segurança. Sendo assim, temos dois termos:
+
+HTTP: HyperText Transfer Protocol
+SSL/TLS: Secure Sockets Layer / Transport Layer Security
+
 ## Rest
 - Rest é um padrão arquitetural para comunicaçôes entre aplicações
 - Ele Aproveita a estrutura do HTTP
