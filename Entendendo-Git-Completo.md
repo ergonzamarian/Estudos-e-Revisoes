@@ -2,7 +2,7 @@
 
 Essencial para versionar o código, deixar tudo mais organizado e mais fácil para se trabalhar, embora tenha uma pequena curva de aprendizado, depois de aprender Git seus trabalhos serão muito mais otimizados.
 
-Comando básicos
+Comandos básicos
 
 ```
 - git clone
