@@ -13,4 +13,4 @@ Comandos básicos
 - git push origin main (master, develop, homolog...)
 
 ```
-Irei explicar cada omando separadamente e adicionar mais comandos, além de como resolver conflitos.
+Irei explicar cada comando separadamente e adicionar mais comandos, além de como resolver conflitos.
