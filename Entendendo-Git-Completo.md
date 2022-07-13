@@ -51,3 +51,14 @@ git fetch
 git rebase feature/my_feature_branch
 git push origin feature/my_feature_branch
 ```
+___
+
+**Para mudar a Configuração Local do git**
+
+Importante dizer, é aconselhável que criei configurações locais para cada repositório local para que possa ser feito o commit da maneira correta e sem quaisquer erros
+
+```
+git config --local user.name = "Seu Nome"
+git config --local user.email = "seuemail@dominio.com"
+git config --local ..."
+```
