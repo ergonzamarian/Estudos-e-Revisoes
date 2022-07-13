@@ -55,7 +55,7 @@ ___
 
 **Para mudar a Configuração Local do git**
 
-Importante dizer, é aconselhável que criei configurações locais para cada repositório local para que possa ser feito o commit da maneira correta e sem quaisquer erros
+Importante dizer, é aconselhável que crie configurações locais para cada repositório local para que possa ser feito o commit da maneira correta e sem quaisquer erros
 
 ```
 git config --local user.name = "Seu Nome"
