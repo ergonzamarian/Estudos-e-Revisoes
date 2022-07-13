@@ -44,4 +44,10 @@ ___
 Esse comando é usado quando queremos enviar nossas alterações locais ao repositório remoto, nosso repositório original.
 ___
 
+> Parte para correção do erro _! [rejected]   feature/my_feature_branch -> feature/my_feature_branch (non-fast-forward)_
 
+```
+git fetch
+git rebase feature/my_feature_branch
+git push origin feature/my_feature_branch
+```
