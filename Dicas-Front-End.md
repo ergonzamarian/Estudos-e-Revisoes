@@ -13,3 +13,8 @@ a{
   color: inherit;
 }
 ``
+____
+
+**Extensões que ajudam no Visual Studio Code**
+
+<a href="https://www.alura.com.br/artigos/extensoes-vs-code-descubra-as-mais-usadas"> Clique Aqui</a>
