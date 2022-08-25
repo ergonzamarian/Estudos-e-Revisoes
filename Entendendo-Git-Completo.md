@@ -58,6 +58,7 @@ ___
 Importante dizer, é aconselhável que crie configurações locais para cada repositório local para que possa ser feito o commit da maneira correta e sem quaisquer erros
 
 ```
+git config --list
 git config --local user.name = "Seu Nome"
 git config --local user.email = "seuemail@dominio.com"
 git config --local ..."
