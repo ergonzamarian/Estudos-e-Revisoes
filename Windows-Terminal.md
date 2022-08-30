@@ -11,4 +11,8 @@
 `md`   Cria uma nova pasta.
 
 
+<h2>Matar Processo npm</h2>
+
+`npx kill-port 4200`
+
 
