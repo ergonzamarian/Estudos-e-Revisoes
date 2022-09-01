@@ -63,3 +63,24 @@ git config --local user.name = "Seu Nome"
 git config --local user.email = "seuemail@dominio.com"
 git config --local ..."
 ```
+___
+
+**Para mudar o nome da Branch**
+
+```
+git branch -m <nome-novo>
+git branch --unset-upstream
+realizar um publish
+```
+___
+
+**Para Aceitar nomes de arquivos longos**
+
+```
+git config --system core.longpaths true
+git config --global core.longpaths true
+```
+
+
+
+
